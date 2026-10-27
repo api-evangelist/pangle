@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pangle is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://pangleglobal.com/
+Pangle is a mobile advertising platform owned by TikTok, offering in‑app ad solutions for publishers worldwide. It provides various ad formats, real‑time bidding, and brand‑safety tools, helping developers monetize apps through the TikTok for Business network.
+
+**Areas:** Advertising · Mobile · Monetization · TikTok · In‑App
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pangleglobal.com/)
+- [Documentation](https://www.pangleglobal.com/resource)
+- [Getting started](https://www.pangleglobal.com/monetization)
+- [Support](https://www.pangleglobal.com/help-center)
+- [Terms of service](https://www.pangleglobal.com/terms)
+- [Privacy policy](https://www.pangleglobal.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pangle/](https://apis.io/providers/pangle/).
